@@ -1,0 +1,37 @@
+{
+  "details": [
+    {
+      "Card": {
+        "name": "Name:Malathi Devi",
+        "email": "Email:malathidevi48@gmail.com",
+        "mobile":"Mobile:67899909998"
+       
+      },
+      "Graduation":"Btech in Computer science and Engineering /College-Gvit /University-JNTUK /Percentage-75%",
+      "Intermediate":"Intermediate-MPC/College-Sri Chaitanya.jr college/ Percentage-77%",
+      "School":"10th class/School-St marys E.M high school /Percentage-92%",
+      "Technical":"Languages:c,c++,java Web",
+      "Web":"technologies:Html,css,Bootstrap",
+      "Hobbies":"Reading books,Listening music",
+      "Declaration":"I hereby declare that the above-mentioned information is correct up to my knowledge and I bear the responsibility for the correctness of the above-mentioned particulars."
+   
+
+    },
+    {
+      "Card": {
+        "name": "Name:Tejaswi",
+        "email": "Email:tejaswi2629@gmail.com",
+        "mobile": "Mobile:23456788889"
+       
+      },
+     
+      "Graduation":"Btech in Computer science and Engineering /College-Gvit /University-JNTUK /Percentage-75%",
+      "Intermediate":"Intermediate-MPC/College-Gouthami jr.college/ Percentage-90%",
+      "School":"10th class/School-Viveka E.M high school /Percentage-92%",
+      "Technical":"Languages:c,c++,java Web",
+      "Web":"technologies:Html,css,Bootstrap",
+      "Hobbies":"Reading books,Listening music",
+      "Declaration":"I hereby declare that the above-mentioned information is correct up to my knowledge and I bear the responsibility for the correctness of the above-mentioned particulars."
+    }
+  ]
+}
